@@ -1,0 +1,3 @@
+hi this is lak again
+we are practicing linux commands
+this is demo.
